@@ -1,0 +1,8 @@
+streamlit
+langchain
+groq
+requests 
+langchain_community
+langchain-core
+langchain-openai
+langchain-groq

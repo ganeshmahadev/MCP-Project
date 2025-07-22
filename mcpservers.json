@@ -1,0 +1,21 @@
+{
+    "mcpServers": {
+      "playwright": {
+        "url": "http://localhost:8931/mcp"
+      },
+      "duckduckgo-search": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "duckduckgo-mcp-server"
+        ]
+    },
+    "airbnb": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@openbnb/mcp-server-airbnb"
+      ]
+    }
+    }
+  }
